@@ -2,7 +2,7 @@
 Pygame light
 
 #import file
-import Light 
+#import Light 
 
 #in main loop
 Light.run(sruface , Height, Width , light_radius)
